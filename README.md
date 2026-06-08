@@ -16,8 +16,8 @@
 
 ## Stats
 
-[![Drake's GitHub stats](https://github-readme-stats.vercel.app/api?username=damiandrake0&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiandrake0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Drake's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=damiandrake0&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=damiandrake0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
